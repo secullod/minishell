@@ -1,0 +1,10 @@
+**o
+minishell
+**a
+.vscode
+test.c
+Makefile.copy*
+a.out
+keys.txt
+.minishell_history
+test.sh
